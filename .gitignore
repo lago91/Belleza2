@@ -213,3 +213,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/bell3/bell3-ejb/nbproject/private/
+/bell3/bell3-war/nbproject/private/
+/bell3/nbproject/private/
+/Belleza/bell3/bell3-ejb/nbproject/private/
+/Belleza/bell3/bell3-war/nbproject/private/
+/Belleza/bell3/nbproject/private/
